@@ -28,19 +28,19 @@
         <img src="https://img.shields.io/badge/Chart.js-3366ff" />
       </td>      
       <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/PHP-3366ff" />
+        <img src="https://img.shields.io/badge/Laravel-3366ff" /> 
+        <img src="https://img.shields.io/badge/Node.js-3366ff" /> 
+        <img src="https://img.shields.io/badge/Express-3366ff" /> 
         <img src="https://img.shields.io/badge/Django-3366ff" /> 
         <img src="https://img.shields.io/badge/Python-3366ff" /> 
+        <img src="https://img.shields.io/badge/Pandas-3366ff" /> 
+        <img src="https://img.shields.io/badge/Numpy-3366ff" /> 
+        <img src="https://img.shields.io/badge/Flask-3366ff" /> 
         <img src="https://img.shields.io/badge/Selenium-3366ff" />        
         <img src="https://img.shields.io/badge/Ruby-3366ff" /> 
         <img src="https://img.shields.io/badge/Rails-3366ff" /> 
         <img src="https://img.shields.io/badge/BeautifulSoup-3366ff" /> 
-        <img src="https://img.shields.io/badge/Pandas-3366ff" /> 
-        <img src="https://img.shields.io/badge/Numpy-3366ff" /> 
-        <img src="https://img.shields.io/badge/Flask-3366ff" /> 
-        <img src="https://img.shields.io/badge/PHP-3366ff" /> 
-        <img src="https://img.shields.io/badge/Laravel-3366ff" /> 
-        <img src="https://img.shields.io/badge/Node.js-3366ff" /> 
-        <img src="https://img.shields.io/badge/Express-3366ff" /> 
         <img src="https://img.shields.io/badge/Nest.js-3366ff" /> 
       </td>
     </tr>
