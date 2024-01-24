@@ -13,15 +13,15 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Angular-3366ff" /> 
-        <img src="https://img.shields.io/badge/Flutter-3366ff" /> 
         <img src="https://img.shields.io/badge/HTML-3366ff" /> 
-        <img src="https://img.shields.io/badge/React-3366ff" /> 
         <img src="https://img.shields.io/badge/CSS-3366ff" />
         <img src="https://img.shields.io/badge/JavaScript-3366ff" /> 
+        <img src="https://img.shields.io/badge/React-3366ff" /> 
         <img src="https://img.shields.io/badge/TypeScript-3366ff" />
         <img src="https://img.shields.io/badge/Vue-3366ff" /> 
+        <img src="https://img.shields.io/badge/Angular-3366ff" /> 
         <img src="https://img.shields.io/badge/Bootstrap-3366ff" /> 
+        <img src="https://img.shields.io/badge/Flutter-3366ff" /> 
         <img src="https://img.shields.io/badge/Tailwind-3366ff" /> 
         <img src="https://img.shields.io/badge/Next-3366ff" /> 
         <img src="https://img.shields.io/badge/Nuxt-3366ff" /> 
