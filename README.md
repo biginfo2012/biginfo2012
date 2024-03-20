@@ -42,8 +42,6 @@
         <img src="https://img.shields.io/badge/Laravel-3366ff" /> 
         <img src="https://img.shields.io/badge/Node.js-3366ff" /> 
         <img src="https://img.shields.io/badge/Express-3366ff" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-3366ff" /> 
-        <img src="https://img.shields.io/badge/Nest.js-3366ff" /> 
       </td>
     </tr>
   </table>
