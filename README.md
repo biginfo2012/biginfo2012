@@ -1,5 +1,5 @@
 <h1 align="center">
-  Full Stack and AI Developer
+  Blockhchain and AI Developer
 </h1>
 <div align="center">
   <img src="https://github.com/deeplus2021/deeplus2021/blob/main/divider1.png" alt="divider"/>
